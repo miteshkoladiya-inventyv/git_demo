@@ -1,7 +1,7 @@
 // Primitive types
 let appName: string = "My TypeScript App";
 let version: number = 1.0;
-let isProduction: boolean = false;
+let isProduction: boolean = true;
 
 // Arrays
 let users: string[] = ["Alice", "Bob", "Charlie"];

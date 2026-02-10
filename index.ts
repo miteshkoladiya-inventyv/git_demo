@@ -1,6 +1,6 @@
 // Primitive types
 let appName: string = "My TypeScript App";
-let version: number = 1.0;
+let version: number = 2.0;
 let isProduction: boolean = false;
 
 // Arrays

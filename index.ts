@@ -20,7 +20,6 @@ type User = {
   id: number;
   name: string;
   role: Role;
-  isActive?: boolean; // optional
 };
 
 // Function

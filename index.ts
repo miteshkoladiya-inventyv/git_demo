@@ -1,7 +1,7 @@
 // Primitive types
-let appName: string = "hot fix final";
+let appName: string = "hot fix";
 let version: number = 1.0;
-let isProduction: boolean = true;
+let isProduction: boolean = false;
 
 // Arrays
 let users: string[] = ["Alice", "Bob", "Charlie"];
@@ -13,6 +13,7 @@ let userInfo: [number, string] = [1, "Admin"];
 enum Role {
   ADMIN = "ADMIN",
   USER = "USER",
+  GUEST = "GUEST",
 }
 
 // Object type

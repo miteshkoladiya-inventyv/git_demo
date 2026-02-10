@@ -1,7 +1,12 @@
 // Primitive types
 let appName: string = "My TypeScript App";
+<<<<<<< HEAD
 let version: number = 2.0;
 let isProduction: boolean = true;
+=======
+let version: number = 1.0;
+let isProduction: boolean = false;
+>>>>>>> parent of 0fd1bab (third chnage data into prod)
 
 // Arrays
 let users: string[] = ["Alice", "Bob", "Charlie"];

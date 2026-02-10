@@ -1,5 +1,5 @@
 // Primitive types
-let appName: string = "My TypeScript App";
+let appName: string = "hot fix";
 let version: number = 1.0;
 let isProduction: boolean = true;
 

@@ -13,7 +13,7 @@ let userInfo: [number, string] = [1, "Admin"];
 enum Role {
   ADMIN = "ADMIN",
   USER = "USER",
-  
+  GUEST = "GUEST",
 }
 
 // Object type
@@ -21,7 +21,6 @@ type User = {
   id: number;
   name: string;
   role: Role;
-  isActive?: boolean; // optional
 };
 
 // Function

@@ -1,5 +1,5 @@
 // Primitive types
-let appName: string = "hot fix";
+let appName: string = "hot fix after release";
 let version: number = 1.0;
 let isProduction: boolean = true;
 

@@ -13,7 +13,6 @@ let userInfo: [number, string] = [1, "Admin"];
 enum Role {
   ADMIN = "ADMIN",
   USER = "USER",
-  GUEST = "GUEST",
 }
 
 // Object type
